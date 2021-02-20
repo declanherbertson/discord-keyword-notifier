@@ -1,0 +1,15 @@
+{
+  "channelUrl": "https://discord.com/channels/417595319849713664/725752244506591326",
+  "channelName": "#wtb-non-luma",
+  "discordStartupTime": 5,
+  "checkInverval": 60,
+  "keywords": [
+    "volarend",
+    "zephyruff"
+  ],
+  "excludeUsers": [
+    "Quixoticake",
+    "Dyuke"
+  ],
+  "lastTimeChecked": ""
+}
